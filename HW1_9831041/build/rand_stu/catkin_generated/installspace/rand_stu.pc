@@ -1,0 +1,8 @@
+prefix=/home/amir/Desktop/project/install
+
+Name: rand_stu
+Description: Description of rand_stu
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
